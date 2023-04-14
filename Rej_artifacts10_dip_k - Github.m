@@ -1,4 +1,17 @@
-
+%
+%Katerina Lymperidou - July 2019
+%
+%Project: Analysis and visualization of multivariate causality and information flow between event
+%related conditions on Field Dependent – Field Independent EEG data
+%
+%Computational BioMedicine Lab - Foundation of Research and Technology
+%Hellas FORTH Crete, Greece
+%
+%Part of this project submitted as Thesis in partial fulfillment of the requirements for 
+%the degree Master of Brain and Mind Sciences, University of Crete
+%All rights reserved
+%
+%In this file: Flag the components labeled as Brain, Muscle, Eye, Heart, Line Noise, Channel Noise or Other artifacts and reject the first 10 components that satisfy my criteria
 
 clear all; 
 close all; 
